@@ -287,7 +287,9 @@
     <Content Include="Views\Order_hist\Edit.cshtml" />
     <Content Include="Views\Order_hist\Index.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="_DATABASE_FOR_GIT\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
